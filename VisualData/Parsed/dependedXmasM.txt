@@ -1,0 +1,7 @@
+[nn(Hannifan-2, Mr.-1), nsubj(man-6, Hannifan-2), cop(man-6, was-3), det(man-6, a-4), amod(man-6, good-5), root(ROOT-0, man-6)]
+[nsubj(was-2, He-1), root(ROOT-0, was-2), advmod(was-2, always-3), prep_near(was-2, Steph-5)]
+[num(day-3, one-2), prep_until(slapped-6, day-3), nn(Hannifan-5, Dr.-4), nsubj(slapped-6, Hannifan-5), root(ROOT-0, slapped-6), dobj(slapped-6, her-7)]
+[nsubj(told-2, Mike-1), root(ROOT-0, told-2), dobj(told-2, him-3), complm(upset-7, that-4), nsubj(upset-7, she-5), cop(upset-7, was-6), ccomp(told-2, upset-7)]
+[nsubj(cried-2, Mike-1), root(ROOT-0, cried-2), det(day-5, the-3), amod(day-5, whole-4), tmod(cried-2, day-5)]
+[nn(Hannifan-2, Mr.-1), nsubj(shouted-4, Hannifan-2), advmod(shouted-4, then-3), root(ROOT-0, shouted-4), nsubj(kill-8, Go-7), ccomp(shouted-4, kill-8), dobj(kill-8, yourself-9)]
+

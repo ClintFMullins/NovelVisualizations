@@ -1,0 +1,7 @@
+(ROOT (S (NP (NNP Mr.) (NNP Hannifan)) (VP (VBD was) (NP (DT a) (JJ good) (NN man))) (. .)))
+(ROOT (S (NP (PRP He)) (VP (VBD was) (ADVP (RB always)) (PP (IN near) (NP (NNP Steph)))) (. .)))
+(ROOT (S (PP (IN Until) (NP (CD one) (NN day))) (NP (NNP Dr.) (NNP Hannifan)) (VP (VBD slapped) (NP (PRP her))) (. .)))
+(ROOT (S (NP (NNP Mike)) (VP (VBD told) (NP (PRP him)) (SBAR (IN that) (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ upset)))))) (. .)))
+(ROOT (S (NP (NNP Mike)) (VP (VBD cried) (NP (DT the) (JJ whole) (NN day))) (. .)))
+(ROOT (S (NP (NNP Mr.) (NNP Hannifan)) (ADVP (RB then)) (VP (VBD shouted) (, ,) (`` `) (S (NP (NNP Go)) (VP (VB kill) (NP (PRP yourself))))) (. !)))
+
